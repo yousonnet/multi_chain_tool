@@ -1,0 +1,22 @@
+{
+  "name": "multi_chain_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/amino": "^0.32.2",
+    "@cosmjs/stargate": "^0.32.2",
+    "@flashbots/ethers-provider-bundle": "^1.0.0",
+    "axios": "^1.6.7",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.4.2",
+    "ethers": "^6.7.1",
+    "web3": "^4.4.0"
+  }
+}
